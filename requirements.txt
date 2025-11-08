@@ -1,0 +1,9 @@
+streamlit
+scikit-learn
+nltk
+pandas
+numpy
+PyMuPDF
+xgboost
+lightgbm
+sentence-transformers   # optional, for better semantic matching
